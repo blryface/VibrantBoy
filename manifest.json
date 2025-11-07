@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vibrant Boy",
+    "description": "This Vibrant Visuals shader makes your game look like a Virtual Boy game.",
+    "uuid": "0d56d102-e6f3-445c-8837-e93ca1e10122",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      120
+    ]
+  },
+  "modules": [
+    {
+      "description": "Vibrant Visuals Resources",
+      "type": "resources",
+      "uuid": "d2f4e198-1679-4706-a66c-2c640e684be9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "capabilities": [
+    "pbr"
+  ],
+  "metadata": {
+    "generated_with": {
+      "mctoolsweb": [
+        "0.14.4"
+      ]
+    }
+  }
+}
